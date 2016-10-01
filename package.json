@@ -1,0 +1,22 @@
+{
+  "name": "reflux",
+  "version": "1.0.0",
+  "description": "another realization of redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hotNoder/reflux.git"
+  },
+  "keywords": [
+    "reflux"
+  ],
+  "author": "1006487900@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hotNoder/reflux/issues"
+  },
+  "homepage": "https://github.com/hotNoder/reflux#readme"
+}
